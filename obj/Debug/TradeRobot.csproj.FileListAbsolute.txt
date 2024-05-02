@@ -1,0 +1,68 @@
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\bin\Debug\TradeRobot.exe.config
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\bin\Debug\TradeRobot.exe
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\bin\Debug\TradeRobot.pdb
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\TradeRobot.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\TradeRobot_MarkupCompile.cache
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\TradeRobot_MarkupCompile.lref
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\TradeRobot.g.resources
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\TradeRobot.Properties.Resources.resources
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\TradeRobot.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\TradeRobot.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\TradeRobot.exe
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\ТП Совместный проект\TradeRobot\obj\Debug\TradeRobot.pdb
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\bin\Debug\TradeRobot.exe.config
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\bin\Debug\TradeRobot.exe
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\bin\Debug\TradeRobot.pdb
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\TradeRobot.csproj.AssemblyReference.cache
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\MainWindow.g.cs
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\App.g.cs
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\TradeRobot_MarkupCompile.cache
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\TradeRobot_MarkupCompile.lref
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\MainWindow.baml
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\TradeRobot.g.resources
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\TradeRobot.Properties.Resources.resources
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\TradeRobot.csproj.GenerateResource.cache
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\TradeRobot.csproj.CoreCompileInputs.cache
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\TradeRobot.exe
+C:\Users\mrdan\Desktop\Учёба\ТП\TradeRobot\obj\Debug\TradeRobot.pdb
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot_MarkupCompile.cache
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot_MarkupCompile.lref
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot.exe
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot.pdb
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\bin\Debug\TradeRobot.exe.config
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\bin\Debug\TradeRobot.exe
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\bin\Debug\TradeRobot.pdb
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot.g.resources
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot.Properties.Resources.resources
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\bin\Debug\NewsAPI.dll
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Учёба\2 курс\Технологии программирования\TradeRobot\obj\Debug\TradeRobot.csproj.Up2Date
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\bin\Debug\TradeRobot.exe.config
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\bin\Debug\TradeRobot.exe
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\bin\Debug\TradeRobot.pdb
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\bin\Debug\NewsAPI.dll
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot_MarkupCompile.cache
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot_MarkupCompile.lref
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot.g.resources
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot.Properties.Resources.resources
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot.csproj.Up2Date
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot.exe
+C:\Users\admin\Desktop\Учёба\2 курс\ТП\TradeRobot\obj\Debug\TradeRobot.pdb

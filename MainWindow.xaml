@@ -1,0 +1,30 @@
+﻿<Window x:Class="TradeRobot.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TradeRobot"
+        mc:Ignorable="d"
+        Title="Trade robot" Height="450" Width="800" SizeChanged="Window_SizeChanged" Icon="/spongebob gangster.jpg">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="91*"/>
+            <ColumnDefinition Width="709*"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel LastChildFill="True" Grid.ColumnSpan="2">
+            <DockPanel DockPanel.Dock="Right" Width="242" LastChildFill="True">
+                <Label DockPanel.Dock="Top" Content="Выберите валюту:" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="48" Width="Auto" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="24"/>
+                <ComboBox DockPanel.Dock="Top" x:Name="CurrencyComboBox" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="31" Width="Auto" Loaded="CurrencyComboBox_Loaded" VerticalContentAlignment="Center" SelectionChanged="CurrencyComboBox_SelectionChanged"/>
+                <UniformGrid DockPanel.Dock="Top" Rows="1">
+                    <Button Content="1 Месяц" Tag="-1" Click="IntervalButton_Click"></Button>
+                    <Button Content="6 Месяцев" Tag="-6" Click="IntervalButton_Click"></Button>
+                    <Button Content="1 Год" Tag="-12" Click="IntervalButton_Click"></Button>
+                </UniformGrid>
+                <ScrollViewer VerticalScrollBarVisibility="Auto" VerticalAlignment="Stretch" Height="Auto">
+                    <StackPanel x:Name="chatStackPanel" Background="#FFC3C3C3" Height="Auto" Width="Auto"/>
+                </ScrollViewer>
+            </DockPanel>
+            <Canvas x:Name="ChartCanvas" Background="#FFE9FFEA" RenderTransformOrigin="0.5,0.5" Margin="0,0,0,0"/>
+        </DockPanel>
+    </Grid>
+</Window>

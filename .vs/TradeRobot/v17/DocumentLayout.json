@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{766A97DE-DB76-4435-98BD-7F24D5897138}|..\\TradeRobotUnitTest\\TradeRobotUnitTest.csproj|c:\\users\\admin\\desktop\\\u0443\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0442\u043F\\traderobotunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F315CB-581A-46F8-87D0-9960F5B30E2A}|TradeRobot.csproj|C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F315CB-581A-46F8-87D0-9960F5B30E2A}|TradeRobot.csproj|solutionrelative:robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F315CB-581A-46F8-87D0-9960F5B30E2A}|TradeRobot.csproj|C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F315CB-581A-46F8-87D0-9960F5B30E2A}|TradeRobot.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F315CB-581A-46F8-87D0-9960F5B30E2A}|TradeRobot.csproj|C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29F315CB-581A-46F8-87D0-9960F5B30E2A}|TradeRobot.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F315CB-581A-46F8-87D0-9960F5B30E2A}|TradeRobot.csproj|C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F315CB-581A-46F8-87D0-9960F5B30E2A}|TradeRobot.csproj|solutionrelative:xmlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-31T10:58:38.724Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:58:38.248Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XmlManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\XmlManager.cs",
+              "RelativeDocumentMoniker": "XmlManager.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\XmlManager.cs",
+              "RelativeToolTip": "XmlManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:44:51.436Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\Robot.cs",
+              "RelativeDocumentMoniker": "Robot.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobot\\Robot.cs",
+              "RelativeToolTip": "Robot.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T11:22:31.767Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobotUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TradeRobotUnitTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\2 \u043A\u0443\u0440\u0441\\\u0422\u041F\\TradeRobotUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TradeRobotUnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwIIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:58:05.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
